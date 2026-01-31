@@ -1,48 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#  IA na Base: O Futuro da Alfabetização 🚀
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora como IAs Generativas podem ser integradas aos anos iniciais do Ensino Fundamental (1º ao 5º ano) no Brasil. O foco é atuar como uma ferramenta auxiliar que respeita a Base Nacional Comum Curricular (BNCC), criando trilhas de aprendizado personalizadas que transformam conteúdos densos em experiências lúdicas e adequadas à idade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT (OpenAI): Para a estruturação do plano de aula e roteirização pedagógica.
+
+Leonardo AI / Midjourney: Para criação de ilustrações didáticas e personagens que acompanham a criança.
+
+ElevenLabs: Para dar voz ao "mascote" de estudos (IA de voz natural).
+
+Gamma: Para a criação de uma apresentação visual do conceito.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Curadoria: Defini os marcos da BNCC para o 2º ano do Ensino Fundamental (ex: interpretação de pequenos textos).
+
+Prompt Engineering: Desenvolvi prompts que limitam a IA a usar vocabulário compatível com a faixa etária, evitando termos complexos.
+
+Visual: Utilizei IAs de imagem para criar um "Guia de Estudos" visualmente atraente (estilo Pixar), facilitando a conexão emocional do aluno com o conteúdo.
+
+Auditor humano: Refinei as saídas para garantir que a IA não fornecesse respostas prontas, mas sim "pistas" que estimulassem o raciocínio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook Interativo: Um guia prático demonstrando como um aluno pode tirar dúvidas sobre gramática usando analogias divertidas geradas por IA.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Avatar Didático: Um personagem gerado por IA que explica, via áudio, a importância da pontuação em uma história curta.
 
-### Exemplos e Insigths
+Plano de Impacto: Um infográfico detalhando como o uso precoce e ético da IA reduz o analfabetismo funcional a longo prazo.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+O desafio de criar algo "natty" (natural) na educação é garantir que a IA não "pense pela criança". O segredo está em usá-la para gerar curiosidade. O resultado é "fake natty" no sentido de que o conteúdo é sintético, mas o aprendizado gerado no aluno é 100% real e orgânico.
 
 ## Links Interessantes
 
