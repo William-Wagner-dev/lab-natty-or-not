@@ -30,9 +30,3 @@ Plano de Impacto: Um infográfico detalhando como o uso precoce e ético da IA r
 
 ## 💭 Reflexão
 O desafio de criar algo "natty" (natural) na educação é garantir que a IA não "pense pela criança". O segredo está em usá-la para gerar curiosidade. O resultado é "fake natty" no sentido de que o conteúdo é sintético, mas o aprendizado gerado no aluno é 100% real e orgânico.
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
